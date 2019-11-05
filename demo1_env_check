@@ -1,0 +1,6 @@
+import sys
+import matplotlib
+import sklearn, numpy, scipy
+print("my env, python located in:", sys.executable)
+print(f"numpy version:{numpy.__version__}, scipy version:{scipy.__version__},sklearn version:{sklearn.__version__}")
+print(f"matplotlib version:{matplotlib.__version__}")
