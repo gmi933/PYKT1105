@@ -13,3 +13,17 @@
 
 * demo11
 * demo12
+
+## Support Vector Machine
+
+* demo13
+
+## Support Vector Machine + PCA
+
+* demo14
+* demo15 (SVC+cross validation)
+
+## Decision Tree
+
+* demo16
+* demo17_decision_tree_plot
