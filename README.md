@@ -47,3 +47,6 @@
 
 ## Random Forest/Seaborn
 * demo26(seaborn)
+
+#PCA
+* demo27 -demo30
