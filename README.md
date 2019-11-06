@@ -27,3 +27,10 @@
 
 * demo16
 * demo17_decision_tree_plot
+* demo18(jupyter)
+
+## k-mean
+
+* demo19
+* demo20
+* demo21
