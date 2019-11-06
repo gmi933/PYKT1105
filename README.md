@@ -39,3 +39,11 @@
 
 * demo22
 * demo23
+
+## naive bayes
+
+* demo24
+* demo25
+
+## Random Forest/Seaborn
+* demo26(seaborn)
